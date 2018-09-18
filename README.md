@@ -11,8 +11,6 @@ O pacote conta com diversas personalizações, como por exemplo:
 
 *Após adicionado o snippet, é possível pressionar* <kbd>Tab</kbd> *para passar para a próxima informação a substituir do snippet.*
 
-
-
 - Color picker customizado para facilidade na hora de selecionarmos cores (para a tag COR, por exemplo);
 
 ![Color Picker Demo](https://i.imgur.com/TdAQDB1.gif)
@@ -22,23 +20,3 @@ O pacote conta com diversas personalizações, como por exemplo:
 - Botão para mudança de tema na barra de ferramentas customizada (Dentre outros).
 
 ![Mudança de Tema](https://i.imgur.com/ApsPmmW.gif)
-
-## Instalação/Atualização
-
-É necessário que o pacote seja instalado manualmente da seguinte forma:
-
-- Realizar o download da atualização mais recente dos pacotes relacionados à OTMSuíte;
-- Descompactar o arquivo para uma pasta temporária;
-- Copiar (e substituir) o pacote language--m-k-q e todas suas dependências (listadas abaixo) para o diretório "%HOMEPATH%\\.atom\\packages".
-
-#### Dependências
-
-Para que todas as funcionalidades estejam disponíveis e funcionais, os seguintes requisitos devem ser atendidos:
-
-- Pacote language--m-k-q instalado;
-- Pacote m-k-q-syntax instalado;
-- Pacote m-k-q-syntax-claro instalado;
-- Pacote tool-bar instalado;
-- Pacote color-picker instalado;
-
-OBS: Onde pacote instalado significa estar na pasta "%HOMEPATH%\\.atom\\packages" e habilitado em <kbd>Settings > Packages </kbd>
