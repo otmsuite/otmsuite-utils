@@ -27,6 +27,8 @@
     "atom-package-deps": "latest"
   },
   "package-deps": [
-    "tool-bar"
+    "tool-bar",
+		"otmsuite-syntax-light",
+		"otmsuite-syntax-dark"
   ]
 }
