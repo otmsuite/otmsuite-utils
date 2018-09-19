@@ -29,6 +29,7 @@
   "package-deps": [
     "tool-bar",
     "otmsuite-syntax-light",
-    "otmsuite-syntax-dark"
+    "otmsuite-syntax-dark",
+		"language-mkq"
   ]
 }
