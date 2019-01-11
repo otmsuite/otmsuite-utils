@@ -24,7 +24,7 @@
   },
   "dependencies": {
     "atom-select-list": "^0.7.1",
-    "atom-package-deps": "4.6.2"
+    "atom-package-deps": "latest"
   },
   "package-deps": [
     "tool-bar",
