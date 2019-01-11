@@ -11,6 +11,12 @@ O pacote conta com diversas personalizações, como por exemplo:
 
 *Após adicionado o snippet, é possível pressionar* <kbd>Tab</kbd> *para passar para a próxima informação a substituir do snippet.*
 
+- Pluggin para visualização de imagens e fácil inserção na sintaxe padrão da ferramenta.
+
+#Aqui vai um gif de demonstração
+
+*É possível acionar o pluggin através da barra de ferramentas (ícone de imagem) ou através do atalho* <kbd>Ctrl</kbd>*+*<kbd>Alt</kbd>*+*<kbd>S</kbd>*.*
+
 - Color picker customizado para facilidade na hora de selecionarmos cores (para a tag COR, por exemplo);
 
 ![Color Picker Demo](https://i.imgur.com/TdAQDB1.gif)
