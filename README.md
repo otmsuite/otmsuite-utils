@@ -1,6 +1,7 @@
-# Language MKQ
+# OTMSuite Utils
 
-Pacote da linguagem utilizada na OTMSuíte e utilitários que serão utilizados para o desenvolvimento de Make Queries, Etiquetas e MakePanel, por exemplo.
+Pacote de utilitários que serão utilizados para o desenvolvimento de MakeQueries, Etiquetas e MakePanels na OTMSuite.
+
 O pacote conta com diversas personalizações, como por exemplo:
 
 - Snippets para agilidade no desenvolvimento e para acesso fácil à documentação;
@@ -13,7 +14,7 @@ O pacote conta com diversas personalizações, como por exemplo:
 
 - Pluggin para visualização de imagens e fácil inserção na sintaxe padrão da ferramenta.
 
-#Aqui vai um gif de demonstração
+![Utilização do Visualizador de Imagens](https://i.imgur.com/oJ5j11P.gif)
 
 *É possível acionar o pluggin através da barra de ferramentas (ícone de imagem) ou através do atalho* <kbd>Ctrl</kbd>*+*<kbd>Alt</kbd>*+*<kbd>S</kbd>*.*
 
