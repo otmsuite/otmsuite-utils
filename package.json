@@ -17,7 +17,7 @@
       }
     }
   },
-  "repository": "https://github.com/otmsuite/otmsuite-utils",
+  "repository": "https://github.com/otm-stev/otmsuite-utils",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0"
