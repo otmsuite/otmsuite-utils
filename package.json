@@ -30,6 +30,7 @@
     "tool-bar",
     "otmsuite-syntax-light",
     "otmsuite-syntax-dark",
-    "language-mkq"
+    "language-mkq",
+    "language-mkp"
   ]
 }
