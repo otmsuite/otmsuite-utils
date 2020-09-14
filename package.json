@@ -27,10 +27,10 @@
     "atom-package-deps": "latest"
   },
   "package-deps": [
-    "tool-bar",
-    "otmsuite-syntax-light",
-    "otmsuite-syntax-dark",
-    "language-mkq",
-    "language-mkp"
+    {"name": "tool-bar"},
+    {"name": "otmsuite-syntax-light"},
+    {"name": "otmsuite-syntax-dark"},
+    {"name": "language-mkq"},
+    {"name": "language-mkp"}
   ]
 }
