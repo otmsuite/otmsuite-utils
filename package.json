@@ -1,7 +1,7 @@
 {
   "name": "otmsuite-utils",
   "main": "./lib/otmsuite-utils",
-  "version": "1.6.2",
+  "version": "1.5.0",
   "description": "Um pacote de utilitários voltado à OTMSuite",
   "keywords": [
     "OTMSuite",
@@ -24,23 +24,13 @@
   },
   "dependencies": {
     "atom-select-list": "^0.7.1",
-    "atom-package-deps": "latest"
+    "atom-package-deps": "6.0.0"
   },
   "package-deps": [
-    {
-      "name": "tool-bar"
-    },
-    {
-      "name": "otmsuite-syntax-light"
-    },
-    {
-      "name": "otmsuite-syntax-dark"
-    },
-    {
-      "name": "language-mkq"
-    },
-    {
-      "name": "language-mkp"
-    }
+    "tool-bar",
+    "otmsuite-syntax-light",
+    "otmsuite-syntax-dark",
+    "language-mkq",
+    "language-mkp"
   ]
 }
