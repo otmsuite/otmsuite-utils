@@ -1,6 +1,6 @@
 # OTMSuite Utils
 
-**Correspondente à versão 22 da OTMSuite**
+**Correspondente à versão 22.20200914_64 da OTMSuite**
 
 Pacote de utilitários que serão utilizados para o desenvolvimento de MakeQueries, Etiquetas e MakePanels na OTMSuite.
 
