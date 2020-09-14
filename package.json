@@ -1,7 +1,7 @@
 {
   "name": "otmsuite-utils",
   "main": "./lib/otmsuite-utils",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Um pacote de utilitários voltado à OTMSuite",
   "keywords": [
     "OTMSuite",
