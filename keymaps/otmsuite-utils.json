@@ -14,11 +14,21 @@
     "alt-numpad0 alt-numpad0 alt-numpad3": "otmsuite-utils:insert-etx",
     "alt-numpad0 alt-numpad0 alt-numpad5": "otmsuite-utils:insert-enq",
     "alt-numpad0 alt-numpad0 alt-numpad7": "otmsuite-utils:insert-bel",
+    "alt-*": "otmsuite-utils:insert-bs",
+    "alt-! ctrl-alt-!": "otmsuite-utils:insert-vt",
+    "alt-$": "otmsuite-utils:insert-eot",
+    "alt-@": "otmsuite-utils:insert-stx",
+    "alt-#": "otmsuite-utils:insert-etx",
+    "alt-%": "otmsuite-utils:insert-enq",
+    "alt-&": "otmsuite-utils:insert-bel",
+    "alt-shift-c": "otmsuite-utils:openColorPicker",
+    "alt-shift-t": "otmsuite-utils:themes-toggle",
+    "alt-shift-s": "otmsuite-utils:toggle-image-viewer",
     "ctrl-alt-t": "otmsuite-utils:themes-toggle",
     "ctrl-alt-s": "otmsuite-utils:toggle-image-viewer"
   },
 
-	" .platform-darwin atom-text-editor": {
+  " .platform-darwin atom-text-editor": {
     "cmd-alt-8": "otmsuite-utils:insert-bs",
     "cmd-alt-1 cmd-alt-1": "otmsuite-utils:insert-vt",
     "cmd-alt-4": "otmsuite-utils:insert-eot",
@@ -26,14 +36,14 @@
     "cmd-alt-3": "otmsuite-utils:insert-etx",
     "cmd-alt-5": "otmsuite-utils:insert-enq",
     "cmd-alt-7": "otmsuite-utils:insert-bel",
-		"alt-numpad0 alt-numpad0 alt-numpad8": "otmsuite-utils:insert-bs",
-		"alt-numpad0 alt-numpad1 alt-numpad1": "otmsuite-utils:insert-vt",
-		"alt-numpad0 alt-numpad0 alt-numpad4": "otmsuite-utils:insert-eot",
-		"alt-numpad0 alt-numpad0 alt-numpad2": "otmsuite-utils:insert-stx",
-		"alt-numpad0 alt-numpad0 alt-numpad3": "otmsuite-utils:insert-etx",
-		"alt-numpad0 alt-numpad0 alt-numpad5": "otmsuite-utils:insert-enq",
-		"alt-numpad0 alt-numpad0 alt-numpad7": "otmsuite-utils:insert-bel",
-		"cmd-alt-t": "otmsuite-utils:themes-toggle",
-		"cmd-alt-s": "otmsuite-utils:toggle-image-viewer"
+    "alt-numpad0 alt-numpad0 alt-numpad8": "otmsuite-utils:insert-bs",
+    "alt-numpad0 alt-numpad1 alt-numpad1": "otmsuite-utils:insert-vt",
+    "alt-numpad0 alt-numpad0 alt-numpad4": "otmsuite-utils:insert-eot",
+    "alt-numpad0 alt-numpad0 alt-numpad2": "otmsuite-utils:insert-stx",
+    "alt-numpad0 alt-numpad0 alt-numpad3": "otmsuite-utils:insert-etx",
+    "alt-numpad0 alt-numpad0 alt-numpad5": "otmsuite-utils:insert-enq",
+    "alt-numpad0 alt-numpad0 alt-numpad7": "otmsuite-utils:insert-bel",
+    "cmd-alt-t": "otmsuite-utils:themes-toggle",
+    "cmd-alt-s": "otmsuite-utils:toggle-image-viewer"
   }
 }
