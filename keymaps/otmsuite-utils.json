@@ -15,7 +15,7 @@
     "alt-numpad0 alt-numpad0 alt-numpad5": "otmsuite-utils:insert-enq",
     "alt-numpad0 alt-numpad0 alt-numpad7": "otmsuite-utils:insert-bel",
     "alt-*": "otmsuite-utils:insert-bs",
-    "alt-! ctrl-alt-!": "otmsuite-utils:insert-vt",
+    "alt-! alt-!": "otmsuite-utils:insert-vt",
     "alt-$": "otmsuite-utils:insert-eot",
     "alt-@": "otmsuite-utils:insert-stx",
     "alt-#": "otmsuite-utils:insert-etx",
