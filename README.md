@@ -1,6 +1,6 @@
 # OTMSuite Utils
 
-**Correspondente à versão 23.20210113_64 da OTMSuite**
+**Correspondente à versão 23.20210706_64 da OTMSuite**
 
 Pacote de utilitários que serão utilizados para o desenvolvimento de MakeQueries, Etiquetas e MakePanels na OTMSuite.
 
@@ -18,14 +18,20 @@ O pacote conta com diversas personalizações, como por exemplo:
 
 ![Utilização do Visualizador de Imagens](https://i.imgur.com/oJ5j11P.gif)
 
-*É possível acionar o pluggin através da barra de ferramentas (ícone de imagem) ou através do atalho* <kbd>Ctrl</kbd>*+*<kbd>Alt</kbd>*+*<kbd>S</kbd>*.*
+*É possível acionar o pluggin através da barra de ferramentas (ícone de imagem) ou através do atalho* <kbd>Ctrl</kbd> *+* <kbd>Alt</kbd> *+* <kbd>S</kbd> *.*
 
 - Color picker customizado para facilidade na hora de selecionarmos cores (para a tag COR, por exemplo);
 
 ![Color Picker Demo](https://i.imgur.com/TdAQDB1.gif)
 
-*Seleção de cor no color Picker (Abrir pela barra de ferramentas ou pelo atalho* <kbd>Ctrl</kbd>*+*<kbd>Alt</kbd>*+*<kbd>C</kbd> *)*
+*Seleção de cor no color Picker (Abrir pela barra de ferramentas ou pelo atalho* <kbd>Ctrl</kbd> *+* <kbd>Alt</kbd> *+* <kbd>C</kbd> *)*
 
-- Botão para mudança de tema na barra de ferramentas customizada (Dentre outros).
+- Botão para mudança de tema na barra de ferramentas customizada (Dentre outros);
 
 ![Mudança de Tema](https://i.imgur.com/ApsPmmW.gif)
+
+- Launcher de menus da plataforma (somente Windows).
+
+![Launcher de menus](https://imgur.com/mxxxash.gif)
+
+*Seleção arquivo myo para execução (Abrir pela barra de ferramentas ou pelo atalho* <kbd>f5</kbd> *)*

@@ -25,7 +25,8 @@
     "alt-shift-t": "otmsuite-utils:themes-toggle",
     "alt-shift-s": "otmsuite-utils:toggle-image-viewer",
     "ctrl-alt-t": "otmsuite-utils:themes-toggle",
-    "ctrl-alt-s": "otmsuite-utils:toggle-image-viewer"
+    "ctrl-alt-s": "otmsuite-utils:toggle-image-viewer",
+    "f5": "otmsuite-utils:toggle-myo-launcher"
   },
 
   " .platform-darwin atom-text-editor": {
